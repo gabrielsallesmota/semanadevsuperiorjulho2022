@@ -1,17 +1,20 @@
-# !Projeto Spring React Dev Superior - Julho 2022
->  *Projeto realizado na semana de workshop dev superior, entre os dias 11/09/2022 e 22/09/2022*
+# Projeto Spring React Dev Superior - Julho 2022
+>  *Projeto realizado na semana de workshop dev superior, entre os dias 11/07/2022 e 22/07/2022*
 
 ## Realizado por
 [Gabriel Salles Mota](https://www.linkedin.com/in/gabrielsallesmota/)
 
 
-## Objetivos do projeto para esta aula
-- Criar projeto backend e frontend
-- Aprimorar tecnicas de Spring Boot 
-- Tecnologias abordadas:
+## Objetivos do Projeto:
+- Criar projeto backend e frontend;
+- Aprimorar técnicas de Spring Boot; 
+- Tecnologias e softwares utilizados:
+    - CSS
+    - HTML
     - Java
     - Figma
     - Maven
     - NodeJS
+    - Postman
     - React JS
     - Spring Boot React
