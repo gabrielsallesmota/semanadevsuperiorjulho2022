@@ -18,3 +18,6 @@
     - Postman
     - React JS
     - Spring Boot React
+
+## Projeto disponível no Netlify:
+    https://62e217e298d3693bc36c48a6--eloquent-monstera-ede68e.netlify.app/
